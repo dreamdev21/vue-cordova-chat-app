@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.helloworld"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "com.myapp.chatapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.myapp.chatapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.myapp.chatapp"
+    }
+  },
+  "dependent_plugins": {}
+}
